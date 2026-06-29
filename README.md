@@ -4,9 +4,7 @@ Cluster Hadoop (Docker) + traitements MapReduce sur le dataset UCI
 **Individual Household Electric Power Consumption**.
 
 ## ⚠️ Dataset (non inclus dans le repo)
-Télécharger depuis UCI :
-https://archive.ics.uci.edu/dataset/235/individual+household+electric+power+consumption
-→ décompresser → `household_power_consumption.txt`
+`household_power_consumption.txt`
 
 ## Build
 - JDK **1.8** (obligatoire)
